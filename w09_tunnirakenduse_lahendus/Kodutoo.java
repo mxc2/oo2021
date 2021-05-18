@@ -1,4 +1,4 @@
-public class koduneyhendus{
+public class Kodutoo{
     public static void main(String[] arg){
         Lyliti a = new Lyliti();
         Lyliti b = new Lyliti();
